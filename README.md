@@ -14,7 +14,7 @@ This project reads data from a file and computes two important statistical metri
 
 1. **Clone the Repository**
    ```bash
-   git clone https://learn.reboot01.com/git/mohani/linear-stats.git
+   git clone https://github.com/74moody/linear-stats.git
    cd linear-stats
    ```
 2. **Run test file followed by this program**
@@ -24,4 +24,4 @@ This project reads data from a file and computes two important statistical metri
 
 ## Authors
 
-- [@mohani](https://learn.reboot01.com/git/mohani)
+- [@74moody](https://github.com/74moody)
